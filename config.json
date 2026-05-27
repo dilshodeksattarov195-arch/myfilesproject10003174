@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionrave",
+        "uuid": 31025850,
+        "checksum": "ak4bel"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
